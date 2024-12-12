@@ -17,3 +17,7 @@
     padding: 5px;
 
 }
+.visited{
+    background-color: #646cff;
+    color: white;
+}
