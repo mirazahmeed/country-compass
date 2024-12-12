@@ -1,0 +1,19 @@
+.country{
+    border: 1px solid #800800;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+
+    &:hover {
+        transform: scale(1.01);
+    }
+}
+.flag {
+    border: 1px solid #800800;
+    border-radius: 5px;
+    padding: 5px;
+
+}
