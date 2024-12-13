@@ -11,3 +11,18 @@
 
     }
 }
+
+.flag-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.flag-container img{
+    height: 100%;
+    width: auto;
+    max-width: 100px;
+    object-fit: contain;
+}
